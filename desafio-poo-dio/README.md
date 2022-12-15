@@ -1,18 +1,7 @@
-## Getting Started
+## Projeto do bootcamp DIO - Java POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O código do projeto foi escrito na IDE Vscode com orientação da professora Camila, por video aulas.
 
-## Folder Structure
+## Java - Programação Orientada a Objeto.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+No mais, é isso, imensamente feliz por está a cada dia mais conhecendo dessa linguagem e praticando.

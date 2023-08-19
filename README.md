@@ -40,6 +40,3 @@ Este projeto é resultado do aprendizado no Bootcamp QA da DIO. No entanto, cont
 
 Este projeto é apenas para fins educacionais. Certifique-se de compreender os conceitos apresentados e usar as informações com responsabilidade.
 
-## Autor
-
-[Seu Nome]
